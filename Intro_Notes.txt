@@ -1,0 +1,16 @@
+Node JS 
+--------
+# Javascript Runtime (Not a language or frame work)
+# library / Running as a service or runtime in your machine
+# built on the V8 JS engine (Same as google chrome)
+# Used low level language c++ writing this Node js and V8
+# JS code on the server
+
+Basics need to know
+
+# JS Basics
+# HTTP (Status code, headers etc)
+# JSON
+# Arrow function
+# Promises
+# MVC Pattern
