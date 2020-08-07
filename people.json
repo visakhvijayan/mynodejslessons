@@ -1,0 +1,8 @@
+{
+  "people": [
+    { "id": 123, "name": "Visakh" },
+    { "id": 456, "name": "Kavya" },
+    { "id": 789, "name": "Nainu" },
+    { "id": 901, "name": "Avani" }
+  ]
+}
