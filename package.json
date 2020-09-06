@@ -1,0 +1,23 @@
+{
+  "name": "nodejssandbox",
+  "version": "1.0.0",
+  "description": "created for learning purpose",
+  "main": "index.js",
+  "scripts": {
+    "Start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/visakhvijayan/mynodejslessons.git"
+  },
+  "author": "visakh vijayakumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/visakhvijayan/mynodejslessons/issues"
+  },
+  "homepage": "https://github.com/visakhvijayan/mynodejslessons#readme",
+  "dependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
